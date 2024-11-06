@@ -1,4 +1,4 @@
-# Classificador de Herói
+# Classificador de Herói 	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 um exercício extremamente simples desenvolvido em JavaScript para o Bootcamp da DIO em parceria com a GFT.
 
